@@ -119,15 +119,15 @@ El Menú General se divide en los siguientes menús y submenús:
 
 ![](https://github.com/isairey/SisComercial/main/media/image013.jpg?raw=true)**= Cadastrar um Novo Cliente;**
 
-![](https://github.com/marcosscholl/Prime-SistemaComercial/blob/master/media/image015.jpg?raw=true) **= Cadastrar um novo Produto;**
+![](https://github.com/isairey/SisComercial/main/media/image015.jpg?raw=true) **= Cadastrar um novo Produto;**
 
-![](https://github.com/marcosscholl/Prime-SistemaComercial/blob/master/media/image017.jpg?raw=true) **= Realizar Orçamento;**
+![](https://github.com/isairey/SisComercial/main/media/image017.jpg?raw=true) **= Realizar Orçamento;**
 
-![](https://github.com/marcosscholl/Prime-SistemaComercial/blob/master/media/image019.jpg?raw=true) **= Iniciar Frente de Caixa;**
+![](https://github.com/isairey/SisComercial/main/media/image019.jpg?raw=true) **= Iniciar Frente de Caixa;**
 
-![](https://github.com/marcosscholl/Prime-SistemaComercial/blob/master/media/image021.jpg?raw=true) **= Consultar / Cadastrar um
+![](https://github.com/isairey/SisComercial/main/media/image021.jpg?raw=true) **= Consultar / Cadastrar um
 Fornecedor;**
 
-![](https://github.com/marcosscholl/Prime-SistemaComercial/blob/master/media/image023.jpg?raw=true) **= Abrir Calculadora;**
+![](https://github.com/isairey/SisComercial/main/media/image023.jpg?raw=true) **= Abrir Calculadora;**
 
-![](https://github.com/marcosscholl/Prime-SistemaComercial/blob/master/media/image025.jpg?raw=true)**= Sair.**
+![](https://github.com/isairey/SisComercial/main/media/image025.jpg?raw=true)**= Sair.**
