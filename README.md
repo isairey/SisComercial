@@ -117,10 +117,14 @@ El Menú General se divide en los siguientes menús y submenús:
 
 **Imágenes de Acceso Directo y sus Significados:**
 
-![image013](https://github.com/marcosscholl/Prime-SistemaComercial/blob/master/media/image013.jpg?raw=true) **= Registrar un Nuevo Cliente**  
-![image015](https://github.com/marcosscholl/Prime-SistemaComercial/blob/master/media/image015.jpg?raw=true) **= Registrar un nuevo Producto**  
-![image017](https://github.com/marcosscholl/Prime-SistemaComercial/blob/master/media/image017.jpg?raw=true) **= Realizar Presupuesto**  
-![image019](https://github.com/marcosscholl/Prime-SistemaComercial/blob/master/media/image019.jpg?raw=true) **= Iniciar Punto de Venta**  
+![](https://github.com/marcosscholl/Prime-SistemaComercial/blob/master/media/image013.jpg?raw=true)**= Cadastrar um Novo Cliente;**
+
+![](https://github.com/marcosscholl/Prime-SistemaComercial/blob/master/media/image015.jpg?raw=true) **= Cadastrar um novo Produto;**
+
+![](https://github.com/marcosscholl/Prime-SistemaComercial/blob/master/media/image017.jpg?raw=true) **= Realizar Orçamento;**
+
+![](https://github.com/marcosscholl/Prime-SistemaComercial/blob/master/media/image019.jpg?raw=true) **= Iniciar Frente de Caixa;**
+
 ![](https://github.com/marcosscholl/Prime-SistemaComercial/blob/master/media/image021.jpg?raw=true) **= Consultar / Cadastrar um
 Fornecedor;**
 
