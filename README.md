@@ -117,7 +117,7 @@ El Menú General se divide en los siguientes menús y submenús:
 
 **Imágenes de Acceso Directo y sus Significados:**
 
-![](https://github.com/isairey/SisComercial/blob/main/media/image013.jpg?raw=true)**= Cadastrar um Novo Cliente;**
+![](https://github.com/isairey/SisComercial/main/media/image013.jpg?raw=true)**= Cadastrar um Novo Cliente;**
 
 ![](https://github.com/marcosscholl/Prime-SistemaComercial/blob/master/media/image015.jpg?raw=true) **= Cadastrar um novo Produto;**
 
